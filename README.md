@@ -10,7 +10,7 @@ A ReactJs website that helps you to see the updated Covid19 overall status of wo
 
 # Table of contents
 
-- [Project Title](#project-title)
+- [Project Title](#Covid-19 Status Update)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Development](#development)
